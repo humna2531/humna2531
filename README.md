@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @humna2531
+- 👋 Hi, I’m @humnakhan
 - 👀 I’m interested in coding, software testing,software devolapment
 
 
