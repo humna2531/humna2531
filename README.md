@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @humnakhan
-- 👀 I’m interested in coding, software testing,software devolapment
-
-
-<!---
-humna2531/humna2531 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey 👋🏽, This is Humna Khan.
+Humna is a fresh graduate Computer Systems engineer from @UIT (NED).
+Her interest in hardware designing 
+Working: As a Research Internee at 👨🏽‍💼@MERL-UIT.
+On Multicore/Singlecore RISCV processors.
