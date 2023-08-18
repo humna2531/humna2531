@@ -1,6 +1,6 @@
 # <big>👋🏽 Hello, I'm Humna Khan!</big>
 
-I'm a recent graduate in **Computer Systems Engineering** from **NED University of Engineering and Technology (UIT)**. My passion lies in the world of **hardware design**, and I'm excited to be on a journey to explore, learn, and innovate in this dynamic field.
+I'm a recent graduate in **Computer Systems Engineering** from *Usman Institute of Technology (affilated with NED)**. My passion lies in the world of **hardware design**, and I'm excited to be on a journey to explore, learn, and innovate in this dynamic field.
 
 ## <big>🌟 About Me</big>
 
