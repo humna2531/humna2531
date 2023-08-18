@@ -15,7 +15,19 @@ Currently, I'm <big>focused on enhancing my Verilog skills</big> and deepening m
 
 Feel free to explore my GitHub repositories to see more of my work!
 
+## <big> languages and tools </big>
+
+
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
+![System Verilog](https://img.shields.io/badge/-System%20Verilog-008000?logo=IEEE&logoColor=white&style=flat)
+![Verilog](https://img.shields.io/badge/-Verilog-3C5A9A?logo=IEEE&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=C%20Sharp&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-CA3435?logo=AutoCAD&logoColor=white&style=flat)
+![Logisim](https://img.shields.io/badge/-Logisim-2ECC71?logo=Logisim&logoColor=white&style=flat)
+![Proteus](https://img.shields.io/badge/-Proteus-00ADEF?logo=Proteus&logoColor=white&style=flat)
+
 
 
 ## <big>📫 Let's Connect</big>
