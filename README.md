@@ -17,6 +17,7 @@ Feel free to explore my GitHub repositories to see more of my work!
 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white&style=flat)
 
+
 ## <big>📫 Let's Connect</big>
 
 I'm always open to connecting with fellow enthusiasts, professionals, and learners in the field of hardware design and engineering. Let's share knowledge, collaborate on exciting projects, and make meaningful contributions together.
