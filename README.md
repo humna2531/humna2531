@@ -15,13 +15,7 @@ Currently, I'm <big>focused on enhancing my Verilog skills</big> and deepening m
 
 Feel free to explore my GitHub repositories to see more of my work!
 
-<!-- Replace 'icon-links' with actual URLs or image paths -->
-
-![C++](https://icon-links/cplusplus-icon.png) ![Python](https://icon-links/python-icon.png) ![SystemVerilog](https://icon-links/systemverilog-icon.png)
-![Verilog](https://icon-links/verilog-icon.png) ![C#](https://icon-links/csharp-icon.png) ![VS Code](https://icon-links/vscode-icon.png)
-![MATLAB](https://icon-links/matlab-icon.png) ![AutoCAD](https://icon-links/autocad-icon.png) ![Logisim](https://icon-links/logisim-icon.png)
-![Proteus](https://icon-links/proteus-icon.png)
-
+![C++](https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white&style=flat)
 
 ## <big>📫 Let's Connect</big>
 
