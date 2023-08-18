@@ -19,7 +19,7 @@ Feel free to explore my GitHub repositories to see more of my work!
 
 I'm always open to connecting with fellow enthusiasts, professionals, and learners in the field of hardware design and engineering. Let's share knowledge, collaborate on exciting projects, and make meaningful contributions together.
 
-- **LinkedIn**: [Your LinkedIn Profile](link)
+- **LinkedIn** :https://www.linkedin.com/in/humna-khan-3886621b4
 - **Email**: humkhan@students.uit.edu
 
 Looking forward to connecting with you!
